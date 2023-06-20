@@ -1,4 +1,4 @@
-# suidide dashboard
+# suicide dashboard
 ## In this project detailed data analysis of suicide rates of all over the world has been done
 
 
