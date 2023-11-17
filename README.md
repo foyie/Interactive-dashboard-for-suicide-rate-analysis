@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/89987028/210268153-26514d9a-6194-4046-8d5b-931a11729aec.png)
 
 ## Then it is deployed on heroku or Streamlit
-![predicted_v_0](https://github.com/foyie/Retina-Image-segmentation-using-cascaded-U-Net/assets/89987028/9630484b-9c56-4a28-88d2-4ab1f0f43657)
+https://github.com/foyie/suicide_dashboard/assets/89987028/361d5cc8-8a29-4236-bf1f-945e647e0a24
 ### url for the app: 
 ### https://foyie-suicide-analysis-1--worldwide-1yynfr.streamlitapp.com/
 ### https://suicide-data-analysis.herokuapp.com/
